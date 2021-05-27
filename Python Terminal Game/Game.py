@@ -14,29 +14,7 @@ house = input("Would size house would you want if you could pick? (Ex: Small, Me
 payment = input("What would you use to pay for things?")
 system = input("What is your favorite gaming system?")
 
-
-
-#Random question relating to github feedback
-
-print("First major thing is completely up to you! If you say no It makes no difference. If you click yes then I guess you're cool!")
-answer = input("Will you play my game and leave feedback if you wish?")
-if answer == "Yes" :
-    print("Ha, I really didn't expect that! Well thank you very much and enjoy!")
-if answer == "yes" :
-     print("Ha, I really didn't expect that! Well thank you very much and enjoy!")
-if answer == "YES" :
-     print("Ha, I really didn't expect that! Well thank you very much and enjoy!")
-
-else :
-    print("Thats alright! Well enjoy the game! :)")
-
 print("......................................................")
-print("......................................................")
-
-
-
-
-
 
 #Story started here
 print("Hello and welcome to the world "+name+"! I hope you enjoy the game!")
